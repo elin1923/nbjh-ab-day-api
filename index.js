@@ -37,7 +37,7 @@ function searchElement(request, response) {
 	}
 	else {
 		var reply = {
-			status:"Not Found"
+			"No School"
 		}
 	}
 	
